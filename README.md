@@ -22,8 +22,12 @@ Outros: Automação, Web Scraping, Excel, Power BI
 
 ---
 ## Contato
-<a href="mailto:gustavo.barreto013@hotmail.com?subject=Contato%20via%20GitHub&body=Olá%20Gustavo,%20vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20falar%20com%20você." title="Email">
-  <img alt="Email" src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
-</a>
-<a href="https://www.linkedin.com/in/gustavo-rodrigues-b5a018312/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a> 
 
+<p>
+  <a href="https://outlook.live.com/mail/0/deeplink/compose?to=gustavo.barreto013@hotmail.com" target="_blank">
+    <img alt="Outlook" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gustavo-rodrigues-b5a018312/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
