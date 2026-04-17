@@ -22,11 +22,8 @@ Outros: Automação, Web Scraping, Excel, Power BI
 
 ---
 ## Contato
-<a href="mailto:gustavo.barreto013@hotmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> <a href="https://wa.me/254747237927" title="Whatsapp"><img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a> 
+<a href="mailto:gustavo.barreto013@hotmail.com?subject=Contato%20via%20GitHub&body=Olá%20Gustavo,%20vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20falar%20com%20você." title="Email">
+  <img alt="Email" src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
+</a>
 <a href="https://www.linkedin.com/in/gustavo-rodrigues-b5a018312/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a> 
-
-
-🌎 Language
-
-🇧🇷 Português | 🇺🇸 English (em breve)
 
