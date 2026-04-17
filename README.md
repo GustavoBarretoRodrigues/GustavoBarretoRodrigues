@@ -1,29 +1,32 @@
-![ChatGPT Image 24_06_2025, 22_44_42](https://github.com/user-attachments/assets/cd2458a9-4434-4696-b17b-33e5c9b156f2)
-# 👋 Hello, World!  
+# Olá, eu sou o Gustavo 👋
 
-My name is **Gustavo** (also known as **ZarGonk**) 🚀  
+Sou um desenvolvedor em evolução constante, com forte interesse em back-end, estudante de Sistemas de Informação. Tenho experiência prática criando soluções que reduzem tarefas repetitivas, integram sistemas, análise de dados e organizam informações de forma eficiente.
+---
+## Sobre mim
+No meu dia a dia, atuo com:
+- Desenvolvimento de pequenas aplicações
+- Automação de processos internos
+- Suporte técnico ao usuário
+- Manutenção e desenvolvimento de BI
+Busco constantemente aprimorar minhas habilidades através de projetos práticos, estudos e novos desafios, com o objetivo de me tornar um desenvolvedor cada vez mais completo.
+---
+## Tecnologias e Ferramentas
 
-💻 I’m a **Back-End Developer** passionate about technology, programming, and innovation.  
-📚 Currently studying **Information Systems**.  
-🎮 Interested in **Artificial Intelligence**, **Data Science**, **Automation** and **Game Development**.  
+Linguagens: Python, Java (básico), JavaScript, HTML, CSS
+Frameworks: Django, Flask (básico)
+Banco de Dados: MySQL / SQL
+Ferramentas: Git, GitHub, VS Code, PyCharm
+Outros: Automação, Web Scraping, Excel, Power BI
+---
+📊 Estatísticas do GitHub
 
 ---
-
-## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## Contato
+<a href="mailto:gustavo.barreto013@hotmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> <a href="https://wa.me/254747237927" title="Whatsapp"><img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a> 
+<a href="https://www.linkedin.com/in/gustavo-rodrigues-b5a018312/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a> 
 
 
-## 📊 GitHub Stats
-![ZarGonk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZarGonk&show_icons=true&theme=tokyonight)   
+🌎 Language
 
----
+🇧🇷 Português | 🇺🇸 English (em breve)
 
-## 🌱 Currently Learning
-- **Object-Oriented Programming (OOP)**
-- **GUI Development with Python**
-- **Machine Learning**
-- **Database Management (SQL + Python Integration)**
-- **Automation with Python**
