@@ -1,6 +1,6 @@
 # Olá, eu sou o Gustavo 👋
 
-#### Sou um desenvolvedor em evolução constante, com forte interesse em back-end, estudante de Sistemas de Informação. Tenho experiência prática criando soluções que reduzem tarefas repetitivas, integram sistemas, análise de dados e organizam informações de forma eficiente.
+Sou um desenvolvedor em evolução constante, com forte interesse em back-end, estudante de Sistemas de Informação. Tenho experiência prática criando soluções que reduzem tarefas repetitivas, integram sistemas, análise de dados e organizam informações de forma eficiente.
 ---
 ## Sobre mim
 No meu dia a dia, atuo com:
