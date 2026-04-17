@@ -4,7 +4,7 @@
 My name is **Gustavo** (also known as **ZarGonk**) 🚀  
 
 💻 I’m a **Back-End Developer** passionate about technology, programming, and innovation.  
-📚 Currently studying **Information Systems** at Anhanguera Unopar.  
+📚 Currently studying **Information Systems**.  
 🎮 Interested in **Artificial Intelligence**, **Data Science**, **Automation** and **Game Development**.  
 
 ---
